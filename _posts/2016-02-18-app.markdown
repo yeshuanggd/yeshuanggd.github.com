@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "用表情识别能做一个有趣的app吗？"
+title:  "App！"
 date:   2016-02-18 11:23:32
 categories: jekyll update
 ---
+用表情识别能做一个有趣的app吗？
 
 得到一个很有意思的产品设计题目，你能得到人的表情愤怒的值，那么可以利用它来设计一个怎样的产品呢？
 
