@@ -2,7 +2,6 @@
 layout: post
 title:  "App！"
 date:   2016-02-18 11:23:32
-categories: jekyll update
 ---
 用表情识别能做一个有趣的app吗？
 
