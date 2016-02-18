@@ -3,26 +3,24 @@ layout: post
 title:  "人工智能产品调研"
 date:   2016-02-17 11:23:32
 ---
+首先，为什么会有人工智能产品出现呢？因为和计算机相关的各种应用服务其实都是在解决连接的问题。我觉得连接也就是交互，人和计算器，甚至是其他形式的东西（手表，眼睛，家用电器）之间，可以有多种多样的互动。以前只能对着电脑敲代码它才会给你回应，那我希望它能直接就知道我怎么想的该多好，于是类似的种种需求促使人工智能的迅猛发展。
+
+先看一下人工智能应用一般用到的技术：
+
+* 自然语言处理
+* 计算机视觉
+* 机器学习
+* 机器人学
+* 自动推理
+* 知识表示（这个不太懂呢）
+
+嗯，是深度学习让人工智能的发展往前迈了一大步，感谢谷歌给人类做的贡献呢
+
+以下是对于目前热门的在搞人工智能的公司及其产品的调研
+
+Google：
+
+* Project Tango:可以实时地为用户周围环境进行3D建模
+* 
 
 
-以下是对于目前热门的一些人工智能产品的调研
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
